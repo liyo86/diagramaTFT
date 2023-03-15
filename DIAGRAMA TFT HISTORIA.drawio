@@ -1,0 +1,37 @@
+<mxfile modified="2023-03-15T19:50:47.181Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SN_aW6hCjbzMZVDT7JMR" version="21.0.6" type="github">
+  <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
+    <mxGraphModel dx="940" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ne1QswCM8ZiEu4GHsYG-31" value="Flujo de juego con la historia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="189.5" y="50" width="790" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ne1QswCM8ZiEu4GHsYG-32" value="" style="line;strokeWidth=2;html=1;fontSize=20;fontColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="103.5" y="80" width="960" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hqozUjSMAaO2-PKMNQ5j-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqozUjSMAaO2-PKMNQ5j-1" target="hqozUjSMAaO2-PKMNQ5j-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqozUjSMAaO2-PKMNQ5j-1" value="CINEMATICA&lt;br&gt;#1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqozUjSMAaO2-PKMNQ5j-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqozUjSMAaO2-PKMNQ5j-9" target="hqozUjSMAaO2-PKMNQ5j-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqozUjSMAaO2-PKMNQ5j-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqozUjSMAaO2-PKMNQ5j-9" target="hqozUjSMAaO2-PKMNQ5j-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqozUjSMAaO2-PKMNQ5j-9" value="ESCENA&lt;br&gt;#1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqozUjSMAaO2-PKMNQ5j-11" value="MISIÓN&lt;br&gt;#1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hqozUjSMAaO2-PKMNQ5j-13" value="EXPLORAR CIUDADELA" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
