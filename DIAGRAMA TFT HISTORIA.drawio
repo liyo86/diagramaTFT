@@ -1,4 +1,4 @@
-<mxfile modified="2023-03-15T20:24:05.932Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zTPkLXIupY7aUJEJ_qgw" version="21.0.6" type="github">
+<mxfile modified="2023-03-15T20:25:37.137Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8pSmoyLb5ij7BKV5z0CV" version="21.0.6" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="940" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -14,22 +14,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hqozUjSMAaO2-PKMNQ5j-1" value="CINEMATICA&lt;br&gt;#1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hqozUjSMAaO2-PKMNQ5j-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqozUjSMAaO2-PKMNQ5j-9" target="hqozUjSMAaO2-PKMNQ5j-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hqozUjSMAaO2-PKMNQ5j-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqozUjSMAaO2-PKMNQ5j-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hqozUjSMAaO2-PKMNQ5j-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqozUjSMAaO2-PKMNQ5j-9" target="hqozUjSMAaO2-PKMNQ5j-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hqozUjSMAaO2-PKMNQ5j-9" value="ESCENA&lt;br&gt;#1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PxQHQB9iRzfIIAWSbS95-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PxQHQB9iRzfIIAWSbS95-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="150" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hqozUjSMAaO2-PKMNQ5j-11" value="MISIÓN&lt;br&gt;#1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="230" width="80" height="80" as="geometry" />
+          <mxGeometry x="460" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hqozUjSMAaO2-PKMNQ5j-13" value="EXPLORAR CIUDAD" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PxQHQB9iRzfIIAWSbS95-1" value="ESCENA&lt;br&gt;#2" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
